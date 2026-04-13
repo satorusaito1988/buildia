@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Members() {
   return (
     <main className="flex min-h-screen items-center justify-center">
-      <h1 className="text-2xl font-bold">Coming Soon</h1>
+      <h1 className="text-2xl font-bold">Members</h1>
     </main>
   );
 }
